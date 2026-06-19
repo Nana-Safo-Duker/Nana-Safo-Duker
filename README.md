@@ -54,7 +54,8 @@ Developing machine learning systems for genomic interpretation, biomarker discov
 
 ## Research Portfolios
 
-### 🧬 Bioinformatics & Precision Medicine Portfolio - https://github.com/Nana-Safo-Duker/Bioinformatics_PrecisionMedicine-Portfolio
+### 🧬 Bioinformatics & Precision Medicine Portfolio
+- https://github.com/Nana-Safo-Duker/Bioinformatics_PrecisionMedicine-Portfolio
 - Mutation Impact Analysis
 - Biomarker Discovery
 - SNP Mapping
