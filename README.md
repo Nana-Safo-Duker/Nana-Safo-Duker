@@ -1,33 +1,210 @@
-### Hi, I’m Nana Safo Duker
+# Hi, I'm Nana Safo Duker 👋
 
-### AI/ML | Data Science | Bioinformatics | Infectious Disease Modeling | Digital Health | Climate Analytics | AI Law
+### Computational Researcher | AI/ML | Bioinformatics | Precision Medicine | Infectious Disease Modeling | Climate & Energy Analytics
 
-Computational researcher in **AI/ML** and **data science**, building data-driven models for **cancer genomics**, **precision medicine**, **infectious disease dynamics**, **digital health systems**, and **climate–health analytics**.
+![](https://komarev.com/ghpvc/?username=Nana-Safo-Duker&color=blue)
 
-I integrate machine learning, statistical modeling, and cloud technologies to support biomarker discovery, scalable analytics, and deployable health innovations. My interests lie in combining biomedical and environmental data for more proactive, resilient, and equitable healthcare systems. I’m committed to the ethical and responsible use of AI for transparent, equitable impact in global health.
-
----
-
-### Links
-
-| | |
-|---|---|
-| **Portfolio site** | [nana-safo-duker.github.io](https://nana-safo-duker.github.io/) |
-| **GitHub** | [@Nana-Safo-Duker](https://github.com/Nana-Safo-Duker) |
-| **LinkedIn** | [Profile](https://www.linkedin.com/in/nana-safo-duker-0aa25227a/) |
-| **Medium** | [@freshsafoduker300](https://medium.com/@freshsafoduker300) |
+![Python](https://img.shields.io/badge/Python-Expert-blue)
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-green)
+![Bioinformatics](https://img.shields.io/badge/Bioinformatics-red)
+![Data Science](https://img.shields.io/badge/Data-Science-orange)
+![Cloud Computing](https://img.shields.io/badge/Cloud-Computing-blue)
+![Digital Health](https://img.shields.io/badge/Digital-Health-success)
+![AI Governance](https://img.shields.io/badge/AI-Governance-purple)
 
 ---
 
-### Highlight repositories
+## About Me
 
-- [AI-ML-Bioinformatics_Precision-Medicine](https://github.com/Nana-Safo-Duker/AI-ML-Bioinformatics_Precision-Medicine) — multi-omics / precision medicine workflows  
-- [Clinical-Data-Science-Health-Analytics](https://github.com/Nana-Safo-Duker/Clinical-Data-Science-Health-Analytics) — clinical data science & health analytics  
-- [Data-Science-Predictive-Analytics](https://github.com/Nana-Safo-Duker/Data-Science-Predictive-Analytics) — applied predictive analytics across domains  
-- [Nana-Safo-Duker.github.io](https://github.com/Nana-Safo-Duker/Nana-Safo-Duker.github.io) — this portfolio (GitHub Pages)
+I am a computational researcher focused on developing end-to-end predictive and analytical systems that transform complex biomedical, epidemiological, climate, energy, and socio-economic datasets into scalable, interpretable, and decision-oriented insights using machine learning, statistical modeling, and computational research methods.
+
+My work spans bioinformatics, precision medicine, infectious disease modeling, clinical health analytics, climate and energy analytics, responsible AI, and public-interest technology.
 
 ---
 
-<p align="center">
-  <i>Thanks for visiting — open to research collaboration and thoughtful conversations at the intersection of AI and biomedicine.</i>
-</p>
+## Research Interests
+
+- 🧬 Bioinformatics & Precision Medicine
+- 🤖 Artificial Intelligence & Machine Learning
+- 🦠 Infectious Disease Modeling & Epidemiology
+- 🏥 Clinical Health Data Analytics
+- 🌍 Climate & Energy Analytics
+- ⚖️ Responsible AI & Digital Governance
+- 📊 Predictive Analytics & Decision Intelligence
+- ☁️ Cloud Computing & Data Engineering
+
+---
+
+## Current Focus
+
+🔬 **AI-Powered Genomic Diagnostics for Prostate Cancer**
+
+Developing machine learning systems for genomic interpretation, biomarker discovery, mutation impact prediction, and precision oncology applications.
+
+---
+
+## Featured Research Portfolios
+
+### 🧬 Bioinformatics & Precision Medicine Portfolio
+- Mutation Impact Analysis
+- Biomarker Discovery
+- SNP Mapping
+- Regulatory Genomics
+- Gene Expression Modeling
+- Transcription Factor Binding Prediction
+
+### 🏥 Clinical Health Data Analytics Portfolio
+- Disease Prediction
+- Risk Stratification
+- Treatment Pattern Analysis
+- Healthcare Analytics
+- Predictive Clinical Modeling
+
+### 🦠 Infectious Disease Modeling & Epidemiology Portfolio
+- Outbreak Forecasting
+- Disease Surveillance Modeling
+- Epidemiological Data Analysis
+- Public Health Analytics
+
+### 🧠 Computational Biomedical Research Portfolio
+- Neurological Signal Analytics
+- Cardiovascular Risk Prediction
+- Retinal Imaging AI
+- DNA Sequence-Based Gene Expression Modeling
+
+### 📊 AI/ML & Predictive Analytics Portfolio
+- Cybersecurity Analytics
+- Natural Language Processing
+- Fraud Detection
+- Customer Segmentation
+- Employee Retention Prediction
+- Financial & Startup Analytics
+
+### 🌍 Climate & Energy Analytics Portfolio
+- Weather Forecasting
+- Renewable Energy Optimization
+- Electricity Pricing Analytics
+- Load Forecasting
+- Sustainable Transition Modeling
+
+---
+
+## GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nana-Safo-Duker&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nana-Safo-Duker&layout=compact)
+
+---
+
+## Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Nana-Safo-Duker)
+
+---
+
+## Technical Skills
+
+### Artificial Intelligence & Machine Learning
+Python • Machine Learning • Deep Learning • Predictive Modeling • Model Evaluation • Statistical Learning
+
+### Bioinformatics & Computational Biology
+Genomics • Variant Analysis • Biomarker Discovery • Precision Medicine • Gene Expression Analysis • Regulatory Genomics
+
+### Data Science & Analytics
+Statistics • Data Visualization • Exploratory Data Analysis • Predictive Analytics • Decision Intelligence
+
+### Epidemiology & Public Health
+Disease Modeling • Outbreak Forecasting • Surveillance Analytics • Population Health Analytics
+
+### Climate & Energy Analytics
+Weather Prediction • Renewable Energy Analytics • Electricity Market Modeling • Sustainability Analytics
+
+### Cloud & Data Engineering
+Cloud Computing • Data Pipelines • Data Management • Reproducible Research Workflows
+
+### Governance & Policy
+Responsible AI • AI Governance • Digital Governance • Data Governance • Public-Interest Technology
+
+---
+
+## Education & Professional Development
+
+🎓 MSc Data Science — Eastern University
+
+🎓 BSc Biological Sciences — University of Ghana
+
+🎓 AI, Justice and the Rule of Law — University of Oxford, Saïd Business School
+
+🎓 Stanford Medicine Professional Programs:
+- AI/ML in Precision Medicine
+- Data Science in Precision Medicine
+- Cloud Computing
+
+🎓 Epiverse Epidemiological Data Science Training:
+- Statistics and Probability for Infectious Diseases
+- Infectious Disease Modelling for Public Health
+
+---
+
+## GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Nana-Safo-Duker)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## Activity Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nana-Safo-Duker)]()
+
+---
+
+## Writing & Publications
+
+✍️ Research writing and technical reflections covering:
+
+- Bioinformatics
+- Precision Medicine
+- Artificial Intelligence
+- Infectious Disease Modeling
+- Responsible AI
+- Climate & Energy Analytics
+- Digital Health Innovation
+
+📝 Medium:
+https://medium.com/@freshsafoduker300
+
+---
+
+## Connect
+
+🌐 Portfolio Website:
+https://nana-safo-duker.github.io
+
+📝 Medium:
+https://medium.com/@freshsafoduker300
+
+💻 GitHub:
+https://github.com/Nana-Safo-Duker
+
+💼 LinkedIn:
+[Add Your LinkedIn URL]
+
+📧 Email:
+[Add Your Professional Email]
+
+---
+
+### Research Domains
+
+🧬 Bioinformatics & Precision Medicine  
+🏥 Clinical Health Analytics  
+🦠 Infectious Disease Modeling  
+🧠 Computational Biomedical Research  
+📊 AI/ML & Predictive Analytics  
+🌍 Climate & Energy Analytics  
+⚖️ Responsible AI & Digital Governance
+
+---
+
+*"Transforming complex data into actionable insights for health, sustainability, and public-interest innovation."*
