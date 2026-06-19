@@ -87,31 +87,6 @@ Developing machine learning systems for genomic interpretation, biomarker discov
 
 ---
 
-## Technical Skills
-
-### Artificial Intelligence & Machine Learning
-Python • Machine Learning • Deep Learning • Predictive Modeling • Model Evaluation • Statistical Learning
-
-### Bioinformatics & Computational Biology
-Genomics • Variant Analysis • Biomarker Discovery • Precision Medicine • Gene Expression Analysis • Regulatory Genomics
-
-### Data Science & Analytics
-Statistics • Data Visualization • Exploratory Data Analysis • Predictive Analytics • Decision Intelligence
-
-### Epidemiology & Public Health
-Disease Modeling • Outbreak Forecasting • Surveillance Analytics • Population Health Analytics
-
-### Climate & Energy Analytics
-Weather Prediction • Renewable Energy Analytics • Electricity Market Modeling • Sustainability Analytics
-
-### Cloud & Data Engineering
-Cloud Computing • Data Pipelines • Data Management • Reproducible Research Workflows
-
-### Governance & Policy
-Responsible AI • AI Governance • Digital Governance • Data Governance • Public-Interest Technology
-
----
-
 ## Writing & Publications
 
 ✍️ Research writing and technical reflections covering:
