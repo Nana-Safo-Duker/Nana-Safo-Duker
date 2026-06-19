@@ -64,6 +64,7 @@ Developing machine learning systems for genomic interpretation, biomarker discov
 - Transcription Factor Binding Prediction
 
 ### 🏥 Clinical Health Data Analytics Portfolio
+👉 https://github.com/Nana-Safo-Duker/Clinical_Health_Data_Analytics-Portfolio
 - Disease Prediction
 - Risk Stratification
 - Treatment Pattern Analysis
@@ -71,18 +72,21 @@ Developing machine learning systems for genomic interpretation, biomarker discov
 - Predictive Clinical Modeling
 
 ### 🦠 Infectious Disease Modeling & Epidemiology Portfolio
+👉 https://github.com/Nana-Safo-Duker/Infectious-Disease-Modelling_Epidemiology-Portfolio
 - Outbreak Forecasting
 - Disease Surveillance Modeling
 - Epidemiological Data Analysis
 - Public Health Analytics
 
 ### 🧠 Computational Biomedical Research Portfolio
+👉 https://github.com/Nana-Safo-Duker/Computational_Biomedical_Research-Portfolio
 - Neurological Signal Analytics
 - Cardiovascular Risk Prediction
 - Retinal Imaging AI
 - DNA Sequence-Based Gene Expression Modeling
 
 ### 📊 AI/ML & Predictive Analytics Portfolio
+👉 https://github.com/Nana-Safo-Duker/AIML_DataScience_PredictiveAnalytics-Portfolio
 - Cybersecurity Analytics
 - Natural Language Processing
 - Fraud Detection
@@ -91,6 +95,7 @@ Developing machine learning systems for genomic interpretation, biomarker discov
 - Financial & Startup Analytics
 
 ### 🌍 Climate & Energy Analytics Portfolio
+👉 https://github.com/Nana-Safo-Duker/Climate_Energy_GreenMicrobiology-Portfolio
 - Weather Forecasting
 - Renewable Energy Optimization
 - Electricity Pricing Analytics
