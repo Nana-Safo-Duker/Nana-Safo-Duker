@@ -1,6 +1,6 @@
 ### Hi, I’m Nana Safo Duker
 
-### Computational Researcher | AI/ML | Data Science | Bioinformatics | Digital Health | Climate Analytics | AI Law
+### AI/ML | Data Science | Bioinformatics | Infectious Disease Modeling | Digital Health | Climate Analytics | AI Law
 
 Computational researcher in **AI/ML** and **data science**, building data-driven models for **cancer genomics**, **precision medicine**, **infectious disease dynamics**, **digital health systems**, and **climate–health analytics**.
 
