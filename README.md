@@ -16,9 +16,9 @@ My work include bioinformatics, precision medicine, infectious disease modeling,
 
 ![Python](https://img.shields.io/badge/R-Programming-purple)
 ![Python](https://img.shields.io/badge/Python-blue)
-![Machine Learning](https://img.shields.io/badge/Climate_&_Energy-Analytics-green)
+![Machine Learning](https://img.shields.io/badge/Climate_&_Energy-Analytics-deepgreen)
 ![Machine Learning](https://img.shields.io/badge/Artifial-Intelligence-black)
-![Machine Learning](https://img.shields.io/badge/Cancer-Genomics-darkgrey)
+![Machine Learning](https://img.shields.io/badge/Cancer-Genomics-lightgreen)
 ![Machine Learning](https://img.shields.io/badge/Infectious-Disease_Modeling-brown)
 ![Machine Learning](https://img.shields.io/badge/Machine-Learning-indigo)
 ![Python](https://img.shields.io/badge/Version-Control-pink)
