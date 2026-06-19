@@ -11,13 +11,14 @@ I am a Computational researcher developing AI-driven predictive and analytical s
 
 ## Skills
 
-
+![Machine Learning](https://img.shields.io/badge/Artifial_Intelligence-blue)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-indigo)
 ![Python](https://img.shields.io/badge/R_Programming-purple)
 ![Python](https://img.shields.io/badge/Python-blue)
 ![Machine Learning](https://img.shields.io/badge/Climate_&_Energy_Analytics-black)
-![Machine Learning](https://img.shields.io/badge/Artifial_Intelligence-blue)
+
 ![Machine Learning](https://img.shields.io/badge/Cancer_Genomics-lightgreen)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-indigo)
+
 ![Python](https://img.shields.io/badge/Version_Control-pink)
 ![Machine Learning](https://img.shields.io/badge/Statistical_Modeling-white)
 ![Bioinformatics](https://img.shields.io/badge/Bioinformatics-red)
