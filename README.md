@@ -16,7 +16,7 @@ I am a Computational researcher developing AI-driven predictive and analytical s
 ![Data Science](https://img.shields.io/badge/Data_Science-orange)
 ![Python](https://img.shields.io/badge/R_Programming-purple)
 ![Python](https://img.shields.io/badge/Python-blue)
-![Machine Learning](https://img.shields.io/badge/Climate_&_Energy_Analytics-brown)
+![Machine Learning](https://img.shields.io/badge/Climate_&_Energy_Analytics-violet)
 ![Machine Learning](https://img.shields.io/badge/Cancer_Genomics-lightgreen)
 
 ![Machine Learning](https://img.shields.io/badge/Infectious_Disease_Modeling-lightblue)
