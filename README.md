@@ -2,7 +2,7 @@
 
 ### AI/ML | Data Science | Bioinformatics | Infectious Disease Modeling | Climate & Energy Analytics | AI Law
 ---
-
+## Technical Skills
 ![Python](https://img.shields.io/badge/Python-Expert-blue)
 ![Machine Learning](https://img.shields.io/badge/Machine-Learning-green)
 ![Bioinformatics](https://img.shields.io/badge/Bioinformatics-red)
