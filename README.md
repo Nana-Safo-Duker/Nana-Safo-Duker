@@ -131,6 +131,6 @@ https://medium.com/@freshsafoduker300
 
 
 💼 LinkedIn Profile:
-linkedin.com/in/nana-safo-duker-0aa25227a
+https://www.linkedin.com/in/nana-safo-duker-0aa25227a
 
 ---
