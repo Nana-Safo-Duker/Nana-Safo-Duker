@@ -1,8 +1,16 @@
 # Hi, I'm Nana Safo Duker 👋
 
 ### AI/ML | Data Science | Bioinformatics | Infectious Disease Modeling | Climate & Energy Analytics | AI Law
+
 ---
-## Technical Skills
+## About Me
+
+I am a computational researcher focused on developing end-to-end predictive and analytical systems that transform complex biomedical, epidemiological, climate, energy, and socio-economic datasets into scalable, interpretable, and decision-oriented insights using machine learning, statistical modeling, and computational research methods.
+My work include bioinformatics, precision medicine, infectious disease modeling, clinical health analytics, climate and energy analytics, responsible AI, and public-interest technology.
+
+---
+
+## Skills
 ![Python](https://img.shields.io/badge/Python-Expert-blue)
 ![Machine Learning](https://img.shields.io/badge/Machine-Learning-green)
 ![Bioinformatics](https://img.shields.io/badge/Bioinformatics-red)
@@ -10,14 +18,6 @@
 ![Cloud Computing](https://img.shields.io/badge/Cloud-Computing-blue)
 ![Digital Health](https://img.shields.io/badge/Digital-Health-success)
 ![AI Governance](https://img.shields.io/badge/AI-Governance-purple)
-
----
-
-## About Me
-
-I am a computational researcher focused on developing end-to-end predictive and analytical systems that transform complex biomedical, epidemiological, climate, energy, and socio-economic datasets into scalable, interpretable, and decision-oriented insights using machine learning, statistical modeling, and computational research methods.
-
-My work spans bioinformatics, precision medicine, infectious disease modeling, clinical health analytics, climate and energy analytics, responsible AI, and public-interest technology.
 
 ---
 
