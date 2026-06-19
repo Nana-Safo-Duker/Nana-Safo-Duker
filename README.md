@@ -1,6 +1,6 @@
 # Hi, I'm Nana Safo Duker 👋
 
-### Computational Researcher | AI/ML | Bioinformatics | Precision Medicine | Infectious Disease Modeling | Climate & Energy Analytics
+### AI/ML | AI/ML | Data Science | Bioinformatics | Infectious Disease Modeling | Climate & Energy Analytics | AI Law
 
 ![](https://komarev.com/ghpvc/?username=Nana-Safo-Duker&color=blue)
 
