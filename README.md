@@ -7,7 +7,7 @@
 
 I am a computational researcher focused on developing end-to-end predictive and analytical systems that transform complex biomedical, epidemiological, climate, energy, and socio-economic datasets into scalable, interpretable, and decision-oriented insights using machine learning, statistical modeling, and computational research methods.
 
-My work include bioinformatics, precision medicine, infectious disease modeling, clinical health analytics, climate and energy analytics, responsible AI, and public-interest technology.
+My work include bioinformatics, precision medicine, infectious disease modeling, climate and energy analytics, responsible AI, and public-interest technology.
 
 ---
 
@@ -16,7 +16,7 @@ My work include bioinformatics, precision medicine, infectious disease modeling,
 ![Python](https://img.shields.io/badge/Version-Control-blue)
 ![Python](https://img.shields.io/badge/R-Programming-purple)
 ![Python](https://img.shields.io/badge/Python-blue)
-![Machine Learning](https://img.shields.io/badge/Climate-Analytics-green)
+![Machine Learning](https://img.shields.io/badge/Climate_&_Energy-Analytics-green)
 ![Machine Learning](https://img.shields.io/badge/Artifial-Intelligencer-black)
 ![Machine Learning](https://img.shields.io/badge/Infectious-Disease_Modeling-brown)
 ![Machine Learning](https://img.shields.io/badge/Machine-Learning-green)
