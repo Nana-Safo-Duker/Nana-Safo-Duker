@@ -1,5 +1,7 @@
 ### Hi, I’m Nana Safo Duker
 
+### Computational Researcher | AI/ML | Data Science | Bioinformatics | Digital Health | Climate Analytics | AI Law
+
 Computational researcher in **AI/ML** and **data science**, building data-driven models for **cancer genomics**, **precision medicine**, **infectious disease dynamics**, **digital health systems**, and **climate–health analytics**.
 
 I integrate machine learning, statistical modeling, and cloud technologies to support biomarker discovery, scalable analytics, and deployable health innovations. My interests lie in combining biomedical and environmental data for more proactive, resilient, and equitable healthcare systems. I’m committed to the ethical and responsible use of AI for transparent, equitable impact in global health.
