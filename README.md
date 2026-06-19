@@ -1,4 +1,4 @@
-# Hi, I'm Nana Safo Duker 👋
+# Hi, I'm Nana Safo Duker
 
 ### AI/ML | Data Science | Bioinformatics | Infectious Disease Modeling | Climate & Energy Analytics | AI Law
 
@@ -33,14 +33,14 @@ My work include bioinformatics, precision medicine, infectious disease modeling,
 
 ## Research Interests
 
-- 🧬 Bioinformatics & Precision Medicine
-- 🤖 Artificial Intelligence & Machine Learning
-- 🦠 Infectious Disease Modeling & Epidemiology
-- 🏥 Clinical Health Data Analytics
-- 🌍 Climate & Energy Analytics
-- ⚖️ Responsible AI & Digital Governance
-- 📊 Predictive Analytics & Decision Intelligence
-- ☁️ Cloud Computing & Data Engineering
+- Bioinformatics & Precision Medicine
+- Artificial Intelligence & Machine Learning
+- Infectious Disease Modeling & Epidemiology
+- Clinical Health Data Analytics
+- Climate & Energy Analytics
+- Responsible AI & Digital Governance
+- Predictive Analytics & Decision Intelligence
+- Cloud Computing & Data Engineering
 
 ---
 
@@ -54,7 +54,7 @@ Developing machine learning systems for genomic interpretation, biomarker discov
 
 ## Research Portfolios
 
-### 🧬 Bioinformatics & Precision Medicine Portfolio
+### Bioinformatics & Precision Medicine Portfolio
 👉 https://github.com/Nana-Safo-Duker/Bioinformatics_PrecisionMedicine-Portfolio
 - Mutation Impact Analysis
 - Biomarker Discovery
@@ -63,7 +63,7 @@ Developing machine learning systems for genomic interpretation, biomarker discov
 - Gene Expression Modeling
 - Transcription Factor Binding Prediction
 
-### 🏥 Clinical Health Data Analytics Portfolio
+### Clinical Health Data Analytics Portfolio
 👉 https://github.com/Nana-Safo-Duker/Clinical_Health_Data_Analytics-Portfolio
 - Disease Prediction
 - Risk Stratification
@@ -71,21 +71,21 @@ Developing machine learning systems for genomic interpretation, biomarker discov
 - Healthcare Analytics
 - Predictive Clinical Modeling
 
-### 🦠 Infectious Disease Modeling & Epidemiology Portfolio
+### Infectious Disease Modeling & Epidemiology Portfolio
 👉 https://github.com/Nana-Safo-Duker/Infectious-Disease-Modelling_Epidemiology-Portfolio
 - Outbreak Forecasting
 - Disease Surveillance Modeling
 - Epidemiological Data Analysis
 - Public Health Analytics
 
-### 🧠 Computational Biomedical Research Portfolio
+### Computational Biomedical Research Portfolio
 👉 https://github.com/Nana-Safo-Duker/Computational_Biomedical_Research-Portfolio
 - Neurological Signal Analytics
 - Cardiovascular Risk Prediction
 - Retinal Imaging AI
 - DNA Sequence-Based Gene Expression Modeling
 
-### 📊 AI/ML & Predictive Analytics Portfolio
+### AI/ML & Predictive Analytics Portfolio
 👉 https://github.com/Nana-Safo-Duker/AIML_DataScience_PredictiveAnalytics-Portfolio
 - Cybersecurity Analytics
 - Natural Language Processing
@@ -94,7 +94,7 @@ Developing machine learning systems for genomic interpretation, biomarker discov
 - Employee Retention Prediction
 - Financial & Startup Analytics
 
-### 🌍 Climate & Energy Analytics Portfolio
+### Climate & Energy Analytics Portfolio
 👉 https://github.com/Nana-Safo-Duker/Climate_Energy_GreenMicrobiology-Portfolio
 - Weather Forecasting
 - Renewable Energy Optimization
