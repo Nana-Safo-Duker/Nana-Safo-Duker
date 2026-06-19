@@ -119,17 +119,3 @@ https://medium.com/@freshsafoduker300
 linkedin.com/in/nana-safo-duker-0aa25227a
 
 ---
-
-### Research Domains
-
-🧬 Bioinformatics & Precision Medicine  
-🏥 Clinical Health Analytics  
-🦠 Infectious Disease Modeling  
-🧠 Computational Biomedical Research  
-📊 AI/ML & Predictive Analytics  
-🌍 Climate & Energy Analytics  
-⚖️ Responsible AI & Digital Governance
-
----
-
-*"Transforming complex data into actionable insights for health, sustainability, and public-interest innovation."*
