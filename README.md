@@ -87,20 +87,6 @@ Developing machine learning systems for genomic interpretation, biomarker discov
 
 ---
 
-## GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nana-Safo-Duker&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nana-Safo-Duker&layout=compact)
-
----
-
-## Contribution Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Nana-Safo-Duker)
-
----
-
 ## Technical Skills
 
 ### Artificial Intelligence & Machine Learning
@@ -126,37 +112,6 @@ Responsible AI • AI Governance • Digital Governance • Data Governance • 
 
 ---
 
-## Education & Professional Development
-
-🎓 MSc Data Science — Eastern University
-
-🎓 BSc Biological Sciences — University of Ghana
-
-🎓 AI, Justice and the Rule of Law — University of Oxford, Saïd Business School
-
-🎓 Stanford Medicine Professional Programs:
-- AI/ML in Precision Medicine
-- Data Science in Precision Medicine
-- Cloud Computing
-
-🎓 Epiverse Epidemiological Data Science Training:
-- Statistics and Probability for Infectious Diseases
-- Infectious Disease Modelling for Public Health
-
----
-
-## GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Nana-Safo-Duker)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## Activity Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nana-Safo-Duker)]()
-
----
-
 ## Writing & Publications
 
 ✍️ Research writing and technical reflections covering:
@@ -179,17 +134,12 @@ https://medium.com/@freshsafoduker300
 🌐 Portfolio Website:
 https://nana-safo-duker.github.io
 
-📝 Medium:
+📝 Articles & Blogs:
 https://medium.com/@freshsafoduker300
 
-💻 GitHub:
-https://github.com/Nana-Safo-Duker
 
-💼 LinkedIn:
-[Add Your LinkedIn URL]
-
-📧 Email:
-[Add Your Professional Email]
+💼 LinkedIn Profile:
+linkedin.com/in/nana-safo-duker-0aa25227a
 
 ---
 
