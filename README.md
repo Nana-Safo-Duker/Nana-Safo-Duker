@@ -11,7 +11,7 @@ I am a Computational researcher developing AI-driven predictive and analytical s
 
 ## Skills
 
-![Machine Learning](https://img.shields.io/badge/Artifial_Intelligence-blue)
+![Machine Learning](https://img.shields.io/badge/Artificial_Intelligence-blue)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-indigo)
 ![Data Science](https://img.shields.io/badge/Data_Science-orange)
 ![Python](https://img.shields.io/badge/R_Programming-purple)
@@ -25,7 +25,7 @@ I am a Computational researcher developing AI-driven predictive and analytical s
 ![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-yellow)
 ![Digital Health](https://img.shields.io/badge/Digital_Health-success)
 ![AI Governance](https://img.shields.io/badge/AI_Governance-grey)
-![Machine Learning](https://img.shields.io/badge/Infectious_Disease_Modeling-Cyan)
+![Machine Learning](https://img.shields.io/badge/Infectious_Disease_Modeling-occeanblue)
 
 ---
 
