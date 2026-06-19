@@ -6,6 +6,7 @@
 ## About Me
 
 I am a computational researcher focused on developing end-to-end predictive and analytical systems that transform complex biomedical, epidemiological, climate, energy, and socio-economic datasets into scalable, interpretable, and decision-oriented insights using machine learning, statistical modeling, and computational research methods.
+
 My work include bioinformatics, precision medicine, infectious disease modeling, clinical health analytics, climate and energy analytics, responsible AI, and public-interest technology.
 
 ---
