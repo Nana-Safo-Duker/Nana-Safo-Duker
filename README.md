@@ -25,7 +25,7 @@ My work include bioinformatics, precision medicine, infectious disease modeling,
 ![Machine Learning](https://img.shields.io/badge/Statistical_Modeling-white)
 ![Bioinformatics](https://img.shields.io/badge/Bioinformatics-red)
 ![Data Science](https://img.shields.io/badge/Data_Science-orange)
-![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-seablue)
+![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-darkgrey)
 ![Digital Health](https://img.shields.io/badge/Digital_Health-success)
 ![AI Governance](https://img.shields.io/badge/AI_Governance-grey)
 
