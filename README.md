@@ -14,11 +14,11 @@ My work include bioinformatics, precision medicine, infectious disease modeling,
 ## Skills
 
 ![Python](https://img.shields.io/badge/Version-Control-blue)
-![Python](https://img.shields.io/badge/R-purple)
+![Python](https://img.shields.io/badge/R-Programming-purple)
 ![Python](https://img.shields.io/badge/Python-blue)
 ![Machine Learning](https://img.shields.io/badge/Climate-Energy-green)
 ![Machine Learning](https://img.shields.io/badge/AI-ML-black)
-![Machine Learning](https://img.shields.io/badge/Machine-Learning-green)
+![Machine Learning](https://img.shields.io/badge/Infectious-Disease-brown)
 ![Machine Learning](https://img.shields.io/badge/Machine-Learning-green)
 ![Bioinformatics](https://img.shields.io/badge/Bioinformatics-red)
 ![Data Science](https://img.shields.io/badge/Data-Science-orange)
