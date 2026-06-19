@@ -19,13 +19,14 @@ I am a Computational researcher developing AI-driven predictive and analytical s
 ![Machine Learning](https://img.shields.io/badge/Climate_&_Energy_Analytics-black)
 ![Machine Learning](https://img.shields.io/badge/Cancer_Genomics-lightgreen)
 
+![Machine Learning](https://img.shields.io/badge/Infectious_Disease_Modeling-occeanblue)
 ![Python](https://img.shields.io/badge/Git_/_GitHub-Version_Control-pink)
 ![Machine Learning](https://img.shields.io/badge/Statistical_Modeling-white)
 ![Bioinformatics](https://img.shields.io/badge/Bioinformatics-red)
 ![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-yellow)
 ![Digital Health](https://img.shields.io/badge/Digital_Health-success)
 ![AI Governance](https://img.shields.io/badge/AI_Governance-grey)
-![Machine Learning](https://img.shields.io/badge/Infectious_Disease_Modeling-occeanblue)
+
 
 ---
 
