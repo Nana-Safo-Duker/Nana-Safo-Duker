@@ -70,6 +70,15 @@ Developing machine learning systems for genomic interpretation, biomarker discov
 - Healthcare Analytics
 - Predictive Clinical Modeling
 
+### AI/ML & Predictive Analytics Portfolio
+👉 https://github.com/Nana-Safo-Duker/AIML_DataScience_PredictiveAnalytics-Portfolio
+- Cybersecurity Analytics
+- Natural Language Processing
+- Fraud Detection
+- Customer Segmentation
+- Employee Retention Prediction
+- Financial & Startup Analytics
+
 ### Infectious Disease Modeling & Epidemiology Portfolio
 👉 https://github.com/Nana-Safo-Duker/Infectious-Disease-Modelling_Epidemiology-Portfolio
 - Outbreak Forecasting
@@ -83,15 +92,6 @@ Developing machine learning systems for genomic interpretation, biomarker discov
 - Cardiovascular Risk Prediction
 - Retinal Imaging AI
 - DNA Sequence-Based Gene Expression Modeling
-
-### AI/ML & Predictive Analytics Portfolio
-👉 https://github.com/Nana-Safo-Duker/AIML_DataScience_PredictiveAnalytics-Portfolio
-- Cybersecurity Analytics
-- Natural Language Processing
-- Fraud Detection
-- Customer Segmentation
-- Employee Retention Prediction
-- Financial & Startup Analytics
 
 ### Climate & Energy Analytics Portfolio
 👉 https://github.com/Nana-Safo-Duker/Climate_Energy_GreenMicrobiology-Portfolio
